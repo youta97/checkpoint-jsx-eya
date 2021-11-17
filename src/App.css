@@ -1,0 +1,8 @@
+.total{
+  display :flex
+}
+.titleRed{
+  font-size: larger;
+  color: brown;
+ text-align: center;
+}
